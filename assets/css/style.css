@@ -89,6 +89,10 @@ html {
     width: calc(100% / 4);
 }
 
+.video {
+    padding: 16px 0;
+}
+
 .bold {
     text-decoration: bold;
 }
@@ -111,6 +115,10 @@ html {
 
 .background-5 {
     background-color: #171717 !important;
+}
+
+.background-6 {
+    background-color: #252525 !important;
 }
 
 /* main */

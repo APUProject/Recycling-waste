@@ -8,6 +8,22 @@
     .slide-content .slide-text {
         font-size: 16px;
     }
+
+    #nav {
+        display: block;
+    }
+    
+    #nav > li {
+        display: block;
+    }
+
+    #nav > li:first-child {
+        display: inline-block   ;
+    }
+
+    #header .menu-btn {
+        display: block;
+    }
 }
 
 /* mobile */
